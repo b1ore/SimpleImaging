@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.v": "systemverilog",
+        "esp32-hal-uart.h": "c"
+    }
+}
